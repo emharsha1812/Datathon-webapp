@@ -24,7 +24,7 @@ To run the code in your environment, follow these steps:
 streamlit run Homepage.py
 ```
 
-**Repository Link** - [https://github.com/emharsha1812/Datathon-webapp](https://github.com/emharsha1812/Datathon-webapp)
+**Bajaj Datathon Solution Document Link** - [https://docs.google.com/document/d/1jk6Ra9KSnBhdXsEG42zCpquN3J4nqOADfs1g4BUQMu4/edit?usp=sharing]([https://github.com/emharsha1812/Datathon-webapp](https://docs.google.com/document/d/1jk6Ra9KSnBhdXsEG42zCpquN3J4nqOADfs1g4BUQMu4/edit?usp=sharing))
 
 **Dataset Link** - [https://drive.google.com/drive/folders/1PNOeOs89YLIcBq3oN89cML3cEJLudKoG?usp=sharing](https://drive.google.com/drive/folders/1PNOeOs89YLIcBq3oN89cML3cEJLudKoG?usp=sharing)
 
