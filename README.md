@@ -13,6 +13,10 @@ You can install Streamlit using the following command:
 pip install streamlit
 ```
 
+Create a folder titled 'weights' and add the following .pt files to the weights folder
+The weights can be accessed from the following link
+**Weights Link ** - [https://drive.google.com/drive/folders/1xSnVJSYPFSand8ISvKNiXxKCkQ4WmmR2?usp=sharing](https://drive.google.com/drive/folders/1xSnVJSYPFSand8ISvKNiXxKCkQ4WmmR2?usp=sharing)
+
 To run the code in your environment, follow these steps:
 1. Open it with any code editor.
 2. Go to the terminal and type the following command:
