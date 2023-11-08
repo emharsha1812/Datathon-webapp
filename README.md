@@ -7,10 +7,28 @@ Created by
 **Prerequisites**
 - Streamlit
 - Pytorch
+- Numpy
+- OpenCV
+- YOLOv8
 
 You can install Streamlit using the following command:
 ```shell
 pip install streamlit
+```
+
+For installing pdf2image library
+```shell
+pip install pdf2image
+```
+
+For installing YOLOV8
+```shell
+pip install ultralytics
+```
+
+For installing Pillow(Python Imaging Library)
+```shell
+pip install pillow
 ```
 
 Create a folder titled 'weights' and add the following .pt files to the weights folder
