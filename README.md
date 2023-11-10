@@ -44,8 +44,11 @@ streamlit run Homepage.py
 ### WebApp Screenshots
 
 ![image1](https://github.com/HARSH-nith/Datathon-webapp/assets/75531664/315a0c1d-83d6-4f18-a9a8-b88ac54d5bde)
+
 ![image2](https://github.com/HARSH-nith/Datathon-webapp/assets/75531664/07e3b7a6-f488-402c-a094-78fbe91f1f71)
-![Uploading image3.png…]()
+
+![image3](https://github.com/HARSH-nith/Datathon-webapp/assets/75531664/b7e7c6b2-1544-4fa6-bd3b-7b7f2d596860)
+
 
 **Bajaj Datathon Solution Document Link** - [https://docs.google.com/document/d/1jk6Ra9KSnBhdXsEG42zCpquN3J4nqOADfs1g4BUQMu4/edit?usp=sharing]([https://github.com/emharsha1812/Datathon-webapp](https://docs.google.com/document/d/1jk6Ra9KSnBhdXsEG42zCpquN3J4nqOADfs1g4BUQMu4/edit?usp=sharing))
 
