@@ -11,6 +11,8 @@ Created by
 - OpenCV
 - YOLOv8
 
+**Demonstration Link** - https://drive.google.com/file/d/1Uyorcmdnrb8DW92p4FdQ8EvjYHUB0vOd/view?usp=sharing
+
 You can install Streamlit using the following command:
 ```shell
 pip install streamlit
@@ -50,7 +52,7 @@ streamlit run Homepage.py
 ![image3](https://github.com/HARSH-nith/Datathon-webapp/assets/75531664/b7e7c6b2-1544-4fa6-bd3b-7b7f2d596860)
 
 
-**Bajaj Datathon Solution Document Link** - [https://docs.google.com/document/d/1jk6Ra9KSnBhdXsEG42zCpquN3J4nqOADfs1g4BUQMu4/edit?usp=sharing]([https://github.com/emharsha1812/Datathon-webapp](https://docs.google.com/document/d/1jk6Ra9KSnBhdXsEG42zCpquN3J4nqOADfs1g4BUQMu4/edit?usp=sharing))
+**Solution Document Link** - [https://docs.google.com/document/d/1jk6Ra9KSnBhdXsEG42zCpquN3J4nqOADfs1g4BUQMu4/edit?usp=sharing]([https://github.com/emharsha1812/Datathon-webapp](https://docs.google.com/document/d/1jk6Ra9KSnBhdXsEG42zCpquN3J4nqOADfs1g4BUQMu4/edit?usp=sharing))
 
 **Dataset Link** - [https://drive.google.com/drive/folders/1PNOeOs89YLIcBq3oN89cML3cEJLudKoG?usp=sharing](https://drive.google.com/drive/folders/1PNOeOs89YLIcBq3oN89cML3cEJLudKoG?usp=sharing)
 
